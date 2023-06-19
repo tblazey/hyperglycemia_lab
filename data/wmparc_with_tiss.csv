@@ -1,0 +1,49 @@
+﻿id,label,hemisphere,structure
+1,Banks Superior Temporal Sulcus,B,Cortex
+2,Caudal Anterior Cingulate,B,Cortex
+3,Caudal Middle Frontal,B,Cortex
+4,Cuneus,B,Cortex
+5,Entorhinal,B,Cortex
+6,Fusiform,B,Cortex
+7,Inferior Parietal,B,Cortex
+8,Inferior Temporal,B,Cortex
+9,Isthmuscingulate,B,Cortex
+10,Lateral Occipital,B,Cortex
+11,Lateral Orbitofrontal,B,Cortex
+12,Lingual,B,Cortex
+13,Medial Orbitofrontal,B,Cortex
+14,Middle Temporal,B,Cortex
+15,Parahippocampal,B,Cortex
+16,Paracentral,B,Cortex
+17,Parsopercularis,B,Cortex
+18,Parsorbitalis,B,Cortex
+19,Parstriangularis,B,Cortex
+20,Pericalcarine,B,Cortex
+21,Postcentral,B,Cortex
+22,Posterior Cingulate,B,Cortex
+23,Precentral,B,Cortex
+24,Precuneus,B,Cortex
+25,Rostral Anterior Cingulate,B,Cortex
+26,Rostral Middle Frontal,B,Cortex
+27,Superior Frontal,B,Cortex
+28,Superior Parietal,B,Cortex
+29,Superior Temporal,B,Cortex
+30,Supramarginal,B,Cortex
+31,Frontal Pole,B,Cortex
+32,Temporal Pole,B,Cortex
+33,Transverse Temporal,B,Cortex
+34,Insula,B,Cortex
+35,Thalamus,B,Subcortex
+36,Caudate,B,Subcortex
+37,Putamen,B,Subcortex
+38,Pallidum,B,Subcortex
+39,Hippocampus,B,Subcortex
+40,Amygdala,B,Subcortex
+41,Accumbens,B,Subcortex
+42,Ventral DC,B,Brainstem
+43,Cerebellar White,B,White Matter
+44,Cerebellar Gray,B,Cerebellum
+45,Cortical White Matter,B,White Matter
+46,Brain Stem,B,Brainstem
+47,Corpus Callosum,B,White Matter
+48,Deep White Matter,B,White Matter
